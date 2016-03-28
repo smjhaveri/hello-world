@@ -1,2 +1,4 @@
 # hello-world
-Learn Github
+Hello All!
+
+Sujata here, I am new to Mobile App world..
